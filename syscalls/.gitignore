@@ -1,0 +1,11 @@
+.vscode
+a.out
+fork
+mmap_munmap
+page_fault
+read
+recv
+select*
+send
+thread
+write
